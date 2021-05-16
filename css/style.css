@@ -21,6 +21,12 @@ nav li a{
     color: black;
     
 }
+.nav{
+    position: sticky;
+    position: -webkit-sticky;
+    top: 20px;
+
+}
 
 nav li :hover , .active{
     color: #fff;
